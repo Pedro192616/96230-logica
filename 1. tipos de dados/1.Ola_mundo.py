@@ -1,5 +1,6 @@
-import os
+# Limpar o terminal.
 
-os.system("clear") # Limpa o terminal.
+import os
+os.system("clear")
 
 print("Olá, mundo!")

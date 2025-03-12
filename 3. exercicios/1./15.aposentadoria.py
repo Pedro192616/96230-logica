@@ -6,7 +6,7 @@ os.system("clear")
 matricula = int(input("Digite a matricula: "))
 ano_de_nascimento = int(input("Digite o ano de nascimento: "))
 anos_de_trabalho = int(input("Digite o tempo de trabalho: "))
-ano_atual = int(input("Digite o ano atual: "))
+ano_atual= int(input("Digite o ano atual: "))
 
 # Processamento
 idade =  ano_atual - ano_de_nascimento

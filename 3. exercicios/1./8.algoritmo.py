@@ -11,11 +11,11 @@ os.system("clear")
 primeiro_numero = int(input("Digite um numero: "))
 operador = input("Digite a operaçao que deseja (+ - * /): ")
 segundo_numero = int(input("Digte um numero: "))
-
+resultado = input
 #  Processamento
 match operador:
      case "+":
-          resultado = primeiro_numero + segundo_numero
+      resultado = primeiro_numero + segundo_numero
 # saida
 print(f"\nPrimeiro numero: {primeiro_numero}")
 print(f"Operaçao: {operador}")

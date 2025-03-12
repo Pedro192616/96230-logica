@@ -9,11 +9,11 @@ os.system
 
 # Entrada
 opçao = int(input("""
+3 \t Strogonoff \t\t R$ 18,00
+4 \t Bife acebolado \t
 Codigo \t Prato \t\t\t Valor
 1 \t Picanha \t\t R$ 25,00
-2 \t Lasanha \t\t R$ 20,00
-3 \t Strogonoff \t\t R$ 18,00
-4 \t Bife acebolado \t\t R$ 15,00
+2 \t Lasanha \t\t R$ \t R$ 15,00
 5 \t Pão com ovo \t\t R$ 5,00
 
 Digite a opçao desejada:
