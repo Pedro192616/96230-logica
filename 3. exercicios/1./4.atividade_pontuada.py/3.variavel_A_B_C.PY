@@ -9,18 +9,18 @@ os.system("clear")
 
 # Entrada
 valor_A = int(input("Digite o valor A: "))
-valor_B= int(input("Digite o valor A: "))
+valor_B = int(input("Digite o valor B: "))
 valor_C = int
 
 # Processamento
-if valor_A == valor_B :
-    valor_A + valor_B == valor_C
-else :
-    valor_A * valor_B == valor_C
 
+if valor_A == valor_B :
+ valor_C = valor_A + valor_B
+
+else : 
+ valor_C = valor_A * valor_B
 
 # Saida
-
 print(f"valor A : {valor_A}")
 print(f"valor B : {valor_B}")
 print(f"valor C : {valor_C}")
