@@ -7,9 +7,10 @@ nome = input("Digite o nome do aluno: ")
 primeira_nota = float(input("Digite a primeira nota: "))
 segunda_nota = float(input("Digite a segunda nota: "))
                            
-if  conceito = "D"
+if nome :
+    conceito = "A" | "B" | "C"
 else :
-    conceito = "E"
+    conceito = "D" | "E"
 
 match conceito:
     case "A" | "B" | "C":
