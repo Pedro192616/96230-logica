@@ -10,9 +10,9 @@ while True :
     ===================== MENU =======================      
     Codigo \t Prato \t\t\t Preço
     1 \t Picanha \t\t R$ 25,00
-    2 \t Lasanha \t\t R$ \t R$ 15,00
+    2 \t Lasanha \t\t R$ 15,00
     3 \t Strogonoff \t\t R$ 18,00
-    4 \t Bife acebolado \t                 
+    4 \t Bife acebolado \t R$ 20,00                
     5 \t Pão com ovo \t\t R$ 5,00
     """)
 
