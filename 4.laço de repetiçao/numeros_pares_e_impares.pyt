@@ -11,6 +11,8 @@ for i in range (5):
         pares += 1
     else:
         impares += 1
+
+
 print()
 print(f"Pares: {pares}")
 print(f"impares: {impares}")
