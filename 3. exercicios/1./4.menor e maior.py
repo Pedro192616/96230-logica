@@ -2,8 +2,8 @@
 import os
 os.system("clear")
 
-primeiro_numero = float(input("Digite a primeira nota"))
-segundo_numero = float(input("Digite a segunda nota"))
+primeiro_numero = float(input("Digite a primeira nota: "))
+segundo_numero = float(input("Digite a segunda nota: "))
 
 media = (primeiro_numero + segundo_numero)
 produto = primeiro_numero * segundo_numero
