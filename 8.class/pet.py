@@ -26,3 +26,4 @@ print(f"Nome: {pessoa2.nome}, idade: {pessoa2.idade}")
 print("Dados da pessoa: ")
 print(f"Nome: {pessoa1.nome}, idade: {pessoa1.idade}, raça: {pet1.raça}")
 print(f"Nome: {pessoa2.nome}, idade: {pessoa2.idade}, raça: {pet2.raça}")
+7.Funçoes
